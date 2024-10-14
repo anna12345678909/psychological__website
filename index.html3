@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Максималістичний психологічний блог</title>
+    <style>
+        body {
+            font-family: 'Arial Black', sans-serif;
+            background-color: #ffefd5;
+            color: #2c3e50;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #ffe4c4;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+        h1 {
+            text-align: center;
+            font-size: 4em;
+            color: #ff6347;
+            text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+            margin-bottom: 40px;
+        }
+        h2 {
+            font-size: 3em;
+            color: #2e8b57;
+            text-align: center;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            text-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+        }
+        p {
+            font-size: 1.5em;
+            line-height: 1.8;
+            color: #34495e;
+            margin-bottom: 20px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+        }
+        .post {
+            background-color: #ffdab9;
+            padding: 40px;
+            margin-bottom: 40px;
+            border-radius: 20px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+        }
+        .post img {
+            width: 100%;
+            max-width: 800px;
+            display: block;
+            margin: 20px auto;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+        }
+        iframe {
+            width: 100%;
+            max-width: 800px;
+            height: 450px;
+            display: block;
+            margin: 40px auto;
+            border: none;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.4);
+            border-radius: 20px;
+        }
+        .social-share {
+            text-align: center;
+            margin-top: 40px;
+        }
+        .social-share a {
+            text-decoration: none;
+            color: #fff;
+            font-weight: bold;
+            background-color: #ff4500;
+            padding: 15px 30px;
+            margin: 10px;
+            display: inline-block;
+            border-radius: 10px;
+            font-size: 1.5em;
+            text-transform: uppercase;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+        }
+        .social-share a:hover {
+            background-color: #d2691e;
+            transform: scale(1.1);
+        }
+        ul {
+            font-size: 1.8em;
+            list-style-type: square;
+            padding-left: 50px;
+            color: #ff6347;
+            margin-bottom: 40px;
+            text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+        }
+        ul li {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Максималістичний психологічний блог</h1>
+
+    <div class="post">
+        <h2>Основні поради для самодопомоги</h2>
+        <ul>
+            <li><strong>Вчись розслаблятись:</strong> Зробіть міні перерву і глибоко вдихніть.</li>
+            <li><strong>Практика прийняття:</strong> Навчіться приймати те, що не можете змінити.</li>
+            <li><strong>Розмовляйте з собою раціонально:</strong> Проаналізуйте стресову ситуацію.</li>
+            <li><strong>Будьте організовані:</strong> Створіть план дня і дотримуйтесь його.</li>
+            <li><strong>Вправи:</strong> Регулярна фізична активність допоможе зняти стрес.</li>
+            <li><strong>Не поспішайте:</strong> Плануйте свій час і виконуйте справи повільніше.</li>
+            <li><strong>Роззброюйте себе:</strong> Не створюйте непотрібних конфліктів у повсякденних ситуаціях.</li>
+            <li><strong>Особистий час:</strong> Збалансуйте роботу та відпочинок.</li>
+            <li><strong>Перегляньте свої звички:</strong> Працюйте над своїм здоров’ям і способом життя.</li>
+            <li><strong>Спілкуйтесь із друзями:</strong> Відпочинок і спілкування допоможуть зняти напругу.</li>
+        </ul>
+
+        <!-- Вставка фото -->
+        <img src="https://logo 1 .jpg" alt="Релаксація">
+
+        <!-- Вбудоване відео з YouTube -->
+        <iframe src="https://www.youtube.com/embed/<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Максималістичний психологічний блог</title>
+    <style>
+        body {
+            font-family: 'Arial Black', sans-serif;
+            background-color: #ffefd5;
+            color: #2c3e50;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #ffe4c4;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+        h1 {
+            text-align: center;
+            font-size: 4em;
+            color: #ff6347;
+            text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+            margin-bottom: 40px;
+        }
+        h2 {
+            font-size: 3em;
+            color: #2e8b57;
+            text-align: center;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            text-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+        }
+        p {
+            font-size: 1.5em;
+            line-height: 1.8;
+            color: #34495e;
+            margin-bottom: 20px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+        }
+        .post {
+            background-color: #ffdab9;
+            padding: 40px;
+            margin-bottom: 40px;
+            border-radius: 20px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+        }
+        .post img {
+            width: 100%;
+            max-width: 800px;
+            display: block;
+            margin: 20px auto;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+        }
+        iframe {
+            width: 100%;
+            max-width: 800px;
+            height: 450px;
+            display: block;
+            margin: 40px auto;
+            border: none;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.4);
+            border-radius: 20px;
+        }
+        .social-share {
+            text-align: center;
+            margin-top: 40px;
+        }
+        .social-share a {
+            text-decoration: none;
+            color: #fff;
+            font-weight: bold;
+            background-color: #ff4500;
+            padding: 15px 30px;
+            margin: 10px;
+            display: inline-block;
+            border-radius: 10px;
+            font-size: 1.5em;
+            text-transform: uppercase;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+        }
+        .social-share a:hover {
+            background-color: #d2691e;
+            transform: scale(1.1);
+        }
+        ul {
+            font-size: 1.8em;
+            list-style-type: square;
+            padding-left: 50px;
+            color: #ff6347;
+            margin-bottom: 40px;
+            text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+        }
+        ul li {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1> Психологічний блог</h1>
+
+    <div class="post">
+        <h2>Основні поради для самодопомоги</h2>
+        <ul>
+            <li><strong>Вчись розслаблятись:</strong> Зробіть міні перерву і глибоко вдихніть.</li>
+            <li><strong>Практика прийняття:</strong> Навчіться приймати те, що не можете змінити.</li>
+            <li><strong>Розмовляйте з собою раціонально:</strong> Проаналізуйте стресову ситуацію.</li>
+            <li><strong>Будьте організовані:</strong> Створіть план дня і дотримуйтесь його.</li>
+            <li><strong>Вправи:</strong> Регулярна фізична активність допоможе зняти стрес.</li>
+            <li><strong>Не поспішайте:</strong> Плануйте свій час і виконуйте справи повільніше.</li>
+            <li><strong>Роззброюйте себе:</strong> Не створюйте непотрібних конфліктів у повсякденних ситуаціях.</li>
+            <li><strong>Особистий час:</strong> Збалансуйте роботу та відпочинок.</li>
+            <li><strong>Перегляньте свої звички:</strong> Працюйте над своїм здоров’ям і способом життя.</li>
+            <li><strong>Спілкуйтесь із друзями:</strong> Відпочинок і спілкування допоможуть зняти напругу.</li>
+        </ul>
+
+        <!-- Вставка фото -->
+        <img src="https://Logo 1.jpg" alt="Релаксація">
+
+        <!-- Вбудоване відео з YouTube -->
+        <iframe src="https://www.youtube.com/embed/wjyHMWGnp3c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <p>Це лише кілька важливих порад, які допоможуть вам зменшити стрес і поліпшити ваше психологічне здоров'я. Пам'ятайте, що ваше емоційне благополуччя — це важливий аспект життя.</p>
+    </div>
+
+    <!-- Кнопки для поширення -->
+    <div class="social-share">
+        <h2>Поділитися в соціальних мережах</h2>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=anna.github.io/psychological-blog" target="_blank">Поділитися на Facebook</a>
+        <a href="https://twitter.com/intent/tweet?url=anna.github.io/psychological-blog" target="_blank">Поділитися на Twitter</a>
+    </div>
+</div>
+
+</body>
+</html>" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <p>Це лише кілька важливих порад, які допоможуть вам зменшити стрес і поліпшити ваше психологічне здоров'я. Пам'ятайте, що ваше емоційне благополуччя — це важливий аспект життя.</p>
+    </div>
+
+    <!-- Кнопки для поширення -->
+    <div class="social-share">
+        <h2>Поділитися в соціальних мережах</h2>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=yanna.github.io/psychological-blog" target="_blank">Поділитися на Facebook</a>
+        <a href="https://twitter.com/intent/tweet?url=anna.github.io/psychological-blog" target="_blank">Поділитися на Twitter</a>
+    </div>
+</div>
+
+</body>
+</html>
